@@ -16,6 +16,10 @@ Original code here
 
 https://codepen.io/giana/pen/GJMBEv
 
+I posted a question on stack overflow.
+
+https://stackoverflow.com/questions/74885300/codepen-output-differs-from-local-output
+
 # References
 
 1. https://getbootstrap.com/docs/5.1/getting-started/introduction/
