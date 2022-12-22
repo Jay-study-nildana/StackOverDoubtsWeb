@@ -12,6 +12,10 @@ Why does the layout change when I put this code on CodePen?
 
 https://codepen.io/jay-pancodu/pen/bGjdbry
 
+Original code here
+
+https://codepen.io/giana/pen/GJMBEv
+
 # References
 
 1. https://getbootstrap.com/docs/5.1/getting-started/introduction/
